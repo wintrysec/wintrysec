@@ -3,4 +3,3 @@
 - 🔭 某安全厂商渗透测试工程师      
 - 🌱 致力于攻防对抗和红队武器化研究
 - 🍔 我的个人简介：https://wintrysec.github.io/about/
-- ✨ 团队：https://www.wgpsec.org
